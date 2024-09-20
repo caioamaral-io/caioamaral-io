@@ -1,7 +1,7 @@
 ### Olá! Eu sou Caio Amaral 👋
 
 - 🔭 Atualmente sou estudante na area de Tenologia. 
-- ⚡ Estudando Back-End, Front-End e Banco de Dados.
+- ⚡ Especializando em Fullstack e Banco de Dados.
   
 <div>
   <a href="https://github.com/caioamaral-io">
