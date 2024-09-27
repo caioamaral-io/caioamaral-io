@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente sou estudante na area de Tenologia. 
 - ⚡ Especializando em Fullstack e Banco de Dados.
+- Acesse meu Hub [aqui](https://hub-one-ecru.vercel.app/)
   
 <div>
   <a href="https://github.com/caioamaral-io">
