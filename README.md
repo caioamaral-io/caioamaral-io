@@ -25,7 +25,8 @@ Tenho dedicado meu tempo a produzir projetos na área de Engenharia de Dados, co
 ### 🤝 Soft Skills  
 - Comunicação Eficaz
 - Pensamento Crítico
-- Organização • Disciplina
+- Organização
+- Disciplina
 - Trabalho em Equipe
 - Feedback Contínuo  
 
