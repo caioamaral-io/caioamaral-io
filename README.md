@@ -10,17 +10,17 @@ Tenho interesse crescente em **bancos de dados, ETL e computação em nuvem**, c
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas  
+### 🛠Tecnologias e Ferramentas  
 - **Bancos de Dados:** SQL, MySQL  
 - **Programação e Análise de Dados:** Python, ETL  
 - **Cloud:** AWS  
 - **Big Data & Cloud Fundamentals**  
 
-### 🌍 Idiomas  
+### Idiomas  
 - Inglês — Intermediário  
 - Espanhol — Intermediário  
 
-### 🤝 Soft Skills  
+### Soft Skills  
 Comunicação Eficaz • Pensamento Crítico • Organização • Disciplina • Trabalho em Equipe • Feedback Contínuo  
 
 ---
