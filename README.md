@@ -1,4 +1,4 @@
-### Olá! Eu sou Caio Amaral 👋
+### Olá, me chamo Caio Amaral.
 
 🚀 **Estudante de Gestão de TI e Futuro Engenheiro de Dados**
 
