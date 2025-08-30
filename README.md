@@ -8,6 +8,8 @@ Tenho interesse crescente em **bancos de dados, ETL e computação em nuvem**, c
 
 📌 Busco minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos, desenvolver soluções inteligentes com dados e crescer como profissional em um ambiente colaborativo e inovador.  
 
+💡 "Tenho dedicado meu tempo a produzir projetos na área de Engenharia de Dados, com o objetivo de transformar meu aprendizado em soluções práticas. Assim que finalizados, serão publicados aqui no GitHub."
+
 ---
 
 ### 🛠 Tecnologias e Ferramentas  
