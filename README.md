@@ -4,7 +4,7 @@
 
 Sou um entusiasta de tecnologia em início de carreira, motivado pelo desejo de transformar informações em conhecimento e impacto positivo. Atualmente curso **Gestão de Tecnologia da Informação na CESAR School** (conclusão prevista em 2025.2) e estou direcionando minha jornada para a **Engenharia de Dados**.
 
-Tenho interesse crescente em **bancos de dados, ETL e computação em nuvem**, construindo uma base sólida em **SQL, MySQL, Python e AWS**, e explorando como a tecnologia pode impactar organizações de forma escalável e eficiente.  
+Tenho interesse crescente em **bancos de dados, ETL e computação em nuvem**, construindo uma base sólida em **SQL, MySQL e Python**, e explorando como a tecnologia pode impactar organizações de forma escalável e eficiente.  
 
 Busco minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos, desenvolver soluções inteligentes com dados e crescer como profissional em um ambiente colaborativo e inovador.  
 
