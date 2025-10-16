@@ -12,7 +12,7 @@ Tenho dedicado meu tempo a produzir projetos na área de Engenharia de Dados, co
 
 ---
 
-### 🛠 Tecnologias e Ferramentas  
+### Tecnologias e Ferramentas  
 - **Bancos de Dados:** SQL, MySQL  
 - **Programação e Análise de Dados:** Python, ETL  
 - **Cloud:** AWS  
