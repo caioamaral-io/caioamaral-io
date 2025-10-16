@@ -12,23 +12,21 @@ Tenho dedicado meu tempo a produzir projetos na área de Engenharia de Dados, co
 
 ---
 
-### Tecnologias e Ferramentas  
-- **Bancos de Dados:** SQL, MySQL  
-- **Programação e Análise de Dados:** Python, ETL  
-- **Cloud:** AWS  
-- **Big Data & Cloud Fundamentals**  
+### Techinical Skills
+- **Linguages:** Python, SQL, JavaScript  
+- **Libraries:** Pandas, NumPy, Matplotlib 
+- **Frameworks** React, Node.js
+- **Tools:**  MySQL, SQLite, Supabase, Jupyter Notebook, Visual Studio Code, IntelliJ, Git
 
 ### Idiomas  
 - Inglês — Intermediário  
 - Espanhol — Intermediário  
 
 ### Soft Skills  
-- Comunicação Eficaz
-- Pensamento Crítico
-- Organização
-- Disciplina
-- Trabalho em Equipe
-- Feedback Contínuo  
+- Gerenciamento de stakeholders
+- Construção de relacionamento
+- Gestão de pessoas
+- Boa comunicação
 
 ---
 
