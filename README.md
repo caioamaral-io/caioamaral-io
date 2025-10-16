@@ -18,7 +18,7 @@ Tenho dedicado meu tempo a produzir projetos na área de Engenharia de Dados, co
 - **Frameworks** React, Node.js
 - **Tools:**  MySQL, SQLite, Supabase, Jupyter Notebook, Visual Studio Code, IntelliJ, Git
 
-### Idiomas  
+### Languages  
 - Inglês — Intermediário  
 - Espanhol — Intermediário  
 
