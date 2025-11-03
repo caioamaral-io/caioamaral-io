@@ -1,6 +1,7 @@
 ### Olá, me chamo Caio Amaral.
 
 **Estudante de Gestão de TI e Futuro Engenheiro de Dados**
+[Meu Portfólio](https://datacaio.vercel.app)
 
 Sou um entusiasta de tecnologia em início de carreira, motivado pelo desejo de transformar informações em conhecimento e impacto positivo. Atualmente curso **Gestão de Tecnologia da Informação na CESAR School** (conclusão prevista em 2025.2) e estou direcionando minha jornada para a **Engenharia de Dados**.
 
