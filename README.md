@@ -1,15 +1,13 @@
 ### Olá, me chamo Caio Amaral.
 
-**Estudante de Gestão de TI e Futuro Engenheiro de Dados**
+**Engenheiro de Dados**
 [Meu Portfólio](https://datacaio.vercel.app)
 
-Sou um entusiasta de tecnologia em início de carreira, motivado pelo desejo de transformar informações em conhecimento e impacto positivo. Atualmente curso **Gestão de Tecnologia da Informação na CESAR School** (conclusão prevista em 2025.2) e estou direcionando minha jornada para a **Engenharia de Dados**.
+Em início de carreira, motivado pelo desejo de transformar informações em conhecimento e impacto positivo. Atualmente curso **Gestão de Tecnologia da Informação na CESAR School** (conclusão prevista em 2025.2) e estou direcionando minha jornada para **Engenharia de Dados**.
 
-Tenho interesse crescente em **bancos de dados, ETL e computação em nuvem**, construindo uma base sólida em **SQL, MySQL e Python**, e explorando como a tecnologia pode impactar organizações de forma escalável e eficiente.  
+Venho trabalhando em projetos com **SQL, Python, Apache Spark, Apache Airflow, Kubernetes e Desenvolvimento de Software**. Explorando como a tecnologia pode impactar organizações de forma escalável e eficiente.  
 
-Busco minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos, desenvolver soluções inteligentes com dados e crescer como profissional em um ambiente colaborativo e inovador.  
-
-Tenho dedicado meu tempo a produzir projetos na área de Engenharia de Dados, com o objetivo de transformar meu aprendizado em soluções práticas. Assim que finalizados, serão publicados aqui no GitHub.
+Tenho dedicado meu tempo a produzir projetos, com o objetivo de transformar meu aprendizado em soluções práticas. Assim que finalizados, serão publicados aqui no GitHub.
 
 ---
 
@@ -17,7 +15,7 @@ Tenho dedicado meu tempo a produzir projetos na área de Engenharia de Dados, co
 - **Linguages:** Python, SQL, JavaScript  
 - **Libraries:** Pandas, NumPy, Matplotlib 
 - **Frameworks** React, Node.js
-- **Tools:**  MySQL, SQLite, Supabase, Jupyter Notebook, Visual Studio Code, IntelliJ, Git
+- **Tools & Platforms:**  MySQL, SQLite, Supabase, Jupyter Notebook, Visual Studio Code, IntelliJ, Git, Apache Spark, Apache Airflow, Kubernetes
 
 ### Languages  
 - Inglês — Intermediário  
