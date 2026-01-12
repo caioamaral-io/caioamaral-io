@@ -5,17 +5,17 @@
 
 Em início de carreira, motivado pelo desejo de transformar informações em conhecimento e impacto positivo. Atualmente curso **Gestão de Tecnologia da Informação na CESAR School** (conclusão prevista em 2025.2) e estou direcionando minha jornada para **Engenharia de Dados**.
 
-Venho trabalhando em projetos com **SQL, Python, Apache Spark, Apache Airflow, Kubernetes e Desenvolvimento de Software**. Explorando como a tecnologia pode impactar organizações de forma escalável e eficiente.  
+Venho trabalhando em projetos com **SQL, Python, Apache Spark, Apache Airflow, Kubernetes, Databricks e Desenvolvimento de Software**. Explorando como a tecnologia pode impactar organizações de forma escalável e eficiente.  
 
 Tenho dedicado meu tempo a produzir projetos, com o objetivo de transformar meu aprendizado em soluções práticas. Assim que finalizados, serão publicados aqui no GitHub.
 
 ---
 
 ### Techinical Skills
-- **Linguages:** Python, SQL, JavaScript  
+- **Linguages:** Python, SQL, Typescript  
 - **Libraries:** Pandas, NumPy, Matplotlib 
-- **Frameworks** React, Node.js
-- **Tools & Platforms:**  MySQL, SQLite, Supabase, Jupyter Notebook, Visual Studio Code, IntelliJ, Git, Apache Spark, Apache Airflow, Kubernetes
+- **Frameworks** React, Node.js, Apache Spark, Airflow, Kubernetes e Databricks
+- **Tools:**  MySQL, Supabase, Jupyter Notebook, Visual Studio Code, IntelliJ, Git
 
 ### Languages  
 - Inglês — Intermediário  
