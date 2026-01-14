@@ -29,11 +29,11 @@ Tenho dedicado meu tempo a produzir projetos, com o objetivo de transformar meu 
 
 ---
 
-<div>
-  <a href="https://github.com/caioamaral-io">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=caioamaral-io&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioamaral-io&layout=compact&langs_count=16&theme=tokyonight&hide_border=true"/>
-  </a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=0000&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
