@@ -3,7 +3,7 @@
 **Engenheiro de Dados**
 [Meu Portfólio](https://datacaio.vercel.app)
 
-Em início de carreira, motivado pelo desejo de transformar informações em conhecimento e impacto positivo. Atualmente curso **Gestão de Tecnologia da Informação na CESAR School** (conclusão prevista em 2025.2) e estou direcionando minha jornada para **Engenharia de Dados**.
+Em início de carreira, motivado pelo desejo de transformar informações em conhecimento e impacto positivo. Atualmente formado em **Gestão de Tecnologia da Informação na CESAR School** (conclusão em 2025.2) e estou direcionando minha jornada para **Engenharia de Dados**.
 
 Venho trabalhando em projetos com **SQL, Python, Apache Spark, Apache Airflow, Kubernetes, Databricks e Desenvolvimento de Software**. Explorando como a tecnologia pode impactar organizações de forma escalável e eficiente.  
 
@@ -31,6 +31,12 @@ Tenho dedicado meu tempo a produzir projetos, com o objetivo de transformar meu 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
 </div>
 
 <div>
