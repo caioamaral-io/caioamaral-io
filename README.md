@@ -7,8 +7,6 @@ Em início de carreira, motivado pelo desejo de transformar informações em con
 
 Venho trabalhando em projetos com **SQL, Python, Apache Spark, Apache Airflow, Kubernetes, Databricks e Desenvolvimento de Software**. Explorando como a tecnologia pode impactar organizações de forma escalável e eficiente.  
 
-Tenho dedicado meu tempo a produzir projetos, com o objetivo de transformar meu aprendizado em soluções práticas. Assim que finalizados, serão publicados aqui no GitHub.
-
 ---
 
 ### Techinical Skills
