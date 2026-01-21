@@ -3,7 +3,7 @@
 **Engenheiro de Dados**
 [Meu Portfólio](https://datacaio.vercel.app)
 
-Em início de carreira, motivado pelo desejo de transformar informações em conhecimento e impacto positivo. Atualmente formado em **Gestão de Tecnologia da Informação na CESAR School** (conclusão em 2025.2) e estou direcionando minha jornada para **Engenharia de Dados**.
+Em início de carreira, motivado pelo desejo de transformar informações em conhecimento e impacto positivo. Atualmente formado em **Gestão de Tecnologia da Informação na CESAR School** (conclusão em 2025.2)
 
 Venho trabalhando em projetos com **SQL, Python, Apache Spark, Apache Airflow, Kubernetes, Databricks e Desenvolvimento de Software**. Explorando como a tecnologia pode impactar organizações de forma escalável e eficiente.  
 
