@@ -19,7 +19,7 @@
       <h2>Technologies</h2>
       <ul>
         <li>Languages: Python, SQL, JavaScript, Typescript</li>
-        <li>Libraries: Pandas, NumPy, Matplotlib</li>
+        <li>Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly</li>
         <li>Frameworks:  React, Node.js, Apache Spark, Airflow, Kubernetes, Databricks</li>
         <li>Tools: MySQL, Supabase, Jupyter Notebook, Visual Studio Code, IntelliJ, Git</li>
       </ul>
