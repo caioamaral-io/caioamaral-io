@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td  width="400">
-      <img src="bg-dark-v2.jpg" width="400" alt="Fundo abstrato cinza com gradiente escuro e textura irregular na parte inferior">
+      <img src="bg-orange.png" width="400" alt="Fundo abstrato cinza com gradiente escuro e textura irregular na parte inferior">
     </td>
     <td valign="top">
       <h1>Caio Amaral</h1>
