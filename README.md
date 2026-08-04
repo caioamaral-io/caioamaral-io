@@ -25,8 +25,8 @@
       </ul>
       <h2>Contact</h2>
       <ul>
-        <li>LinkedIn: <a href="https://linkedin.com/in/caioamaraldata">Caio Amaral</a></li>
-        <li>Portfolio: <a href="https://datacaio.vercel.app">My Portfolio</a></li>
+        <li>LinkedIn: <a href="">Caio Amaral</a></li>
+        <li>Portfolio: <a href="">My Portfolio</a></li>
       </ul>
     </td>
   </tr>
